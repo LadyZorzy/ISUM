@@ -1,0 +1,26 @@
+body           { text-align: center;
+                 background-color: #FFFFFF
+                
+}
+.bold          { font-weight: bold; }
+.bigFont       { font-family: helvetica, arial, sans-serif;
+                 font-weight: bold;
+                 font-size: 2em;
+                 color: #A70432; }
+.italic        { font-style: italic; }
+.right         { text-align: right; }
+table, th, td  { border: 3px groove;
+                 padding: 5px; }
+table          { background-color: #FF851B; 
+                 margin-left: auto;
+                 margin-right: auto; }
+a               {font-weight: bold;
+                 font-family: helvetica, arial, sans-serif;
+                 color: #FF851B ;
+    font-size: 2em;
+}
+div {
+   right: 0;
+bottom: 150px;
+position: absolute;
+}
